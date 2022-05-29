@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VkNewsViewer</string>
+    <integer name="com_vk_sdk_AppId">8179287</integer>
 </resources>
